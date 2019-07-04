@@ -48,7 +48,7 @@ public class Calculator {
     {
     	int result=0;
 //        write your code here
-    	result = x-y;
+    	result = x - y;
         return result;
     }
     public static int mult(int x, int y)
